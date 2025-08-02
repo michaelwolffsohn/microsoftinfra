@@ -3,6 +3,12 @@ Download, Install, or Reinstall Microsoft 365 or Office 2024 Already Purchased o
 
 Have you recently bought Microsoft 365 or Office 2024 and now wondering how to set it up on your computer? Whether you’re setting it up for the first time or need to reinstall Microsoft 365 already purchased, this guide is your complete solution. We’ll walk you through how to download Microsoft 365 already purchased, how to install Microsoft 365 already purchased, and how to recover your subscription if needed. No matter if you're on a PC or Mac, the process is similar and simple once you follow the correct steps.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href=https://office365setup.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started</a>
+   </div>
+
 In this article, we’ll use phrases like download Microsoft 365 already purchased, install Microsoft 365 already purchased, and reinstall Microsoft 365 already purchased so you know you’re reading the exact guide meant for your situation.
 
 Step 1: Sign In to Your Microsoft Account
@@ -153,5 +159,6 @@ Whether you're looking to download Microsoft 365 already purchased, install Micr
 
 - `Microsoft Services Dashboard <https://account.microsoft.com/services>`_
 - `Office Setup Page <https://setup.office.com>`_
+
 
 By keeping your software updated and managing your account efficiently, you can enjoy all the benefits of Microsoft’s productivity suite on your PC or Mac with peace of mind.
