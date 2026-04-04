@@ -6,7 +6,7 @@ Have you recently bought Microsoft 365 or Office 2024 and now wondering how to s
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href=https://office365setup.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started</a>
+       <a href=https://setupoffice365.page.gd/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started</a>
    </div>
 
 In this article, we’ll use phrases like download Microsoft 365 already purchased, install Microsoft 365 already purchased, and reinstall Microsoft 365 already purchased so you know you’re reading the exact guide meant for your situation.
